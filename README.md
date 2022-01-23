@@ -13,7 +13,7 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"> 
     <img align="center" alt="VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img float="right" align="right" alt="Ez-gif" height="300px" width="400px" src="">
+ <!-- <img float="right" align="right" alt="Ez-gif" height="300px" width="400px" src=""> -->
 </div>
   
    ##
