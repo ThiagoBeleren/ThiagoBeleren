@@ -12,7 +12,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"> 
-    <img align="center" alt="VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Python" heigth="30" width"40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-16e1pn%2F&psig=AOvVaw0Tfz6TpCotxiY9F890rpKK&ust=1643229298330000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDAt_jfzfUCFQAAAAAdAAAAABAD"
  <!-- <img float="right" align="right" alt="Ez-gif" height="300px" width="400px" src=""> -->
 </div>
   
