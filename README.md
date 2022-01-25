@@ -49,7 +49,7 @@ target="_blank" target="_blank"></a>
   <div style="display: inline-block">
     <img alt="PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" target="_blank">
     
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
     
   </div>
 
