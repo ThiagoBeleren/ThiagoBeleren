@@ -7,7 +7,7 @@
 </div>
 
   <h2>Programming </h2>
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,11 +30,11 @@ target="_blank" target="_blank"></a>
   </div>
   
   <h2> Editores</h2>
+<div style="display: inline-block">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
   <img align="center" alt="VS" height="30" width="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <div>
-    
-  </div>
+</div>
+  
 <div style="display: block">
   <h2 color="green"> Games</h2>
     <a href = "https://steamcommunity.com/id/ThiagoBeleren/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
