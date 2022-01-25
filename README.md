@@ -43,10 +43,10 @@ target="_blank" target="_blank"></a>
   <h2>Outros hobbies</h2>
   <div style="display: inline-block">
     <img alt="PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" target="_blank">
-    
+  </div>
 
-      ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+ <div>
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  </div>
   
 
