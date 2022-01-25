@@ -1,6 +1,6 @@
 ## Eai Rapazi 👋
 
-<div>
+<div align="center">
   <a href="https://github.com/ThiagoBeleren">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBeleren&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img float="right" overflow="hidden" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
@@ -24,14 +24,14 @@
  	<a href="https://www.twitch.tv/ezdeterno" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/KUgPeGkn24" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
 target="_blank"></a> 
-  <a href = "ThiagoBeleren@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+  <a href = "mailto:thiagobeleren@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
 target="_blank" target="_blank"></a>
   </div>
   
   <h2> Editores</h2>
 <div style="display: inline-block">
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
-  <img alt="VS" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm" target="_blank">
+  <img alt="VS" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
 </div>
   
   <h2 style="color: green"> Games</h2>
@@ -42,10 +42,11 @@ target="_blank" target="_blank"></a>
       
   <h2>Outros hobbies</h2>
   <div style="display: inline-block">
-    <img alt="PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
-<div>
+    <img alt="PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" target="_blank"> </br>
+    
+
       ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
   
 
