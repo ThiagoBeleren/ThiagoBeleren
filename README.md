@@ -2,12 +2,12 @@
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/ThiagoBeleren">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBeleren&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img float="right" overflow="hidden" height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="170em" width="100em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBeleren&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="178em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
  <div>
    
 <div style=""><br>
-    <img float="" overflow="" height="300em" width="120em" src="https://media.discordapp.net/attachments/925418016706002954/935651130040537138/IMG_20210905_205251.jpg?width=374&height=499">
+    <img float="" overflow="" height="300em" width="200em" src="https://media.discordapp.net/attachments/925418016706002954/935651130040537138/IMG_20210905_205251.jpg?width=374&height=499">
 </div>
 
   <h2>Programming </h2>
