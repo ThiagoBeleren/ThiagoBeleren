@@ -18,6 +18,7 @@
   <!--<img float="right" align="right" alt="Ez-gif" height="300px" width="400px" src="">-->
 </div>
   
+  <h2> Redes Sociais</h2>
 <div>
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <a href="https://instagram.com/Beleren_Thiago" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,10 +27,11 @@
 target="_blank"></a> 
   <a href = "mailto:ThiagoBeleren@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
 target="_blank" target="_blank"></a>
+  </div>
   
   <h2> Editores</h2>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
-  <img align="center" alt="VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="VS" height="30" width="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <div>
     
   </div>
@@ -37,7 +39,7 @@ target="_blank" target="_blank"></a>
   <h2 color="green"> Games</h2>
     <a href = "https://steamcommunity.com/id/ThiagoBeleren/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
     <a href= ""> <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a>
-    <a href= ""> <img src=""> 
+    <a href= ""> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a> 
       
 <div>
       ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
