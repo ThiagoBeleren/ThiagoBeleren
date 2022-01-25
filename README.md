@@ -1,6 +1,6 @@
 ## Eai Rapazi 👋
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <a href="https://github.com/ThiagoBeleren">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoBeleren&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
@@ -8,6 +8,7 @@
    
 <div style="display: inline_block"><br>
     <img float="" overflow="" height="300em" width="200em" src="https://media.discordapp.net/attachments/925418016706002954/935651130040537138/IMG_20210905_205251.jpg?width=374&height=499">
+    <img src="https://lol-skin.weblog.vc/img/wallpaper/loading/Ezreal_21.jpg?1641627342" height="300em" width="200em">
 </div>
 
   <h2>Programming </h2>
