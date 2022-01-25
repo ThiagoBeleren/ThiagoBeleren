@@ -6,6 +6,7 @@
   <img float="right" overflow="hidden "height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
+  <h2>Programming </h2>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,12 +14,11 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"> 
   <img align="center" alt="VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Python" heigth="30" width"40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-16e1pn%2F&psig=AOvVaw0Tfz6TpCotxiY9F890rpKK&ust=1643229298330000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDAt_jfzfUCFQAAAAAdAAAAABAD"
- <!-- <img float="right" align="right" alt="Ez-gif" height="300px" width="400px" src=""> -->
+  <img align="center" alt="Python" heigth="30" width="40" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+  <img align="center" alt="java" height="30" width="40" src"https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <!--<img float="right" align="right" alt="Ez-gif" height="300px" width="400px" src="">-->
 </div>
   
-   ##
-
 <div>
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <a href="https://instagram.com/Beleren_Thiago" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,11 +27,15 @@
 target="_blank"></a> 
   <a href = "mailto:ThiagoBeleren@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
 target="_blank"></a>
-<div>
+  
+<div style="display: block">
   <h2 color="green"> Games</h2>
     <a href = "https://steamcommunity.com/id/ThiagoBeleren/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    <a href= ""> <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a>
+    <a href= ""> <img src="" 
+      
+      
+      ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   
