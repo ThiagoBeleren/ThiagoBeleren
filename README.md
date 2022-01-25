@@ -4,7 +4,7 @@
   <a href="https://github.com/ThiagoBeleren">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBeleren&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img float="" overflow="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
-    <img float="right" overflow="hidden" height="400px" width="300px" src="https://www.instagram.com/p/CTe47mIsKAp/"/>
+    <img float="right" overflow="hidden" height="" width="" src="https://www.instagram.com/p/CTe47mIsKAp/"/>
 </div>
 
   <h2>Programming </h2>
