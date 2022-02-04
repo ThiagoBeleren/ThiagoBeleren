@@ -48,7 +48,7 @@ target="_blank" target="_blank"></a>
 </div>
   
   <h2 style="color: green"> Games</h2>
-<div style="display: block">
+<div style="display: inline">
     <a href = "https://steamcommunity.com/id/ThiagoBeleren/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <br>
     <a href= ""> <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a> <p>Maguinhodelolis</p>
