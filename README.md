@@ -1,6 +1,6 @@
 ## Eai Rapazi 👋
 
-<div style="display: inline" align-items="center"><br>
+<div style="display: block" align-items="center"><br>
   <a href="https://github.com/ThiagoBeleren">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoBeleren&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
@@ -14,7 +14,7 @@
 </div>
    
 <div style="display: inline-block"><br>
-    <img margin="10px" src="https://i.ytimg.com/vi/yoQ9e5YiMxA/maxresdefault.jpg" height="500px" width="900px">
+    <img margin="10px" src="https://i.ytimg.com/vi/yoQ9e5YiMxA/maxresdefault.jpg" height="400px" width="800px">
   <p text-align="center"> O seno de dois A vezes o seno de B menos C vezes X mais o seno de dois B vezes o seno de C menos A vezes Y, mais o seno de dois C, mais o seno de A menos B vezes X é igual a zero.
 aaaa  é , isso sim é bonito -Zoe </p>
 </div>
@@ -52,13 +52,13 @@ target="_blank" target="_blank"></a>
     <a href = "https://steamcommunity.com/id/ThiagoBeleren/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <br>
     <a href= ""> <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a> <p>Maguinhodelolis</p>
-    <a href= ""> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a> <p>Mreleren</p>
+    <a href= ""> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a> <p>MrBeleren</p>
       
   <h2>Outros hobbies</h2>
   <div style="display: inline-block">
     <img alt="PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" target="_blank">
     
-    <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
     
   </div>
 
