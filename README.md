@@ -1,6 +1,6 @@
 ## Eai Rapazi 👋
 
-<div style="display: inline_block" text-align="center"><br>
+<div style="display: inline" text-align="center"><br>
   <a href="https://github.com/ThiagoBeleren">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoBeleren&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img float="right" overflow="hidden" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
