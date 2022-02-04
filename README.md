@@ -13,9 +13,9 @@
   <li>Um grande amor por criar bots (principalmente no discord)</li>
 </div>
    
-<div style="display: inline-block"><br>
+<div><br>
     <img margin="10px" src="https://i.ytimg.com/vi/yoQ9e5YiMxA/maxresdefault.jpg" height="400px" width="800px">
-  <p text-align="center"> "O seno de dois A vezes o seno de B menos C vezes X mais o seno de dois B </br> vezes o seno de C menos A vezes Y, mais o seno de dois C, </br> mais o seno de A menos B vezes X é igual a zero.</br>
+  <p text_align="center"> "O seno de dois A vezes o seno de B menos C vezes X mais o seno de dois B </br> vezes o seno de C menos A vezes Y, mais o seno de dois C, </br> mais o seno de A menos B vezes X é igual a zero.</br>
 aaaa  é , isso sim é bonito" -Zoe </p>
 </div>
 
