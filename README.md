@@ -4,7 +4,7 @@
   <a href="https://github.com/ThiagoBeleren">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoBeleren&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
- <div>
+ </div>
    
    <h2>Sobre mim...</h2>
 <div>
