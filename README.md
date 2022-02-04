@@ -14,7 +14,7 @@
 </div>
    
 <div><br>
-    <img align="center" margin="10px" src="https://i.pinimg.com/564x/8d/46/e0/8d46e07221905f26c83dc2d14387ed0c.jpg" height="350px" width="410px">
+    <img align="center" margin="10px" src="https://i.pinimg.com/564x/8d/46/e0/8d46e07221905f26c83dc2d14387ed0c.jpg" height="450px" width="450px">
   <p align="center"> "O seno de dois A vezes o seno de B menos C vezes X mais o seno de dois B </br> vezes o seno de C menos A vezes Y, mais o seno de dois C, </br> mais o seno de A menos B vezes X é igual a zero.</br>
 aaaa  é , isso sim é bonito" -Zoe </p>
 </div>
