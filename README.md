@@ -1,14 +1,22 @@
 ## Eai Rapazi 👋
 
-<div style="display: inline" text-align="center"><br>
+<div style="display: inline" align-items="center"><br>
   <a href="https://github.com/ThiagoBeleren">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoBeleren&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img float="right" overflow="hidden" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBeleren&layout=compact&langs_count=7&theme=nightowl"/>
  <div>
    
-<div style="display: inline_block"><br>
-    <img float="" overflow="" height="300em" width="200em" src="https://media.discordapp.net/attachments/925418016706002954/935651130040537138/IMG_20210905_205251.jpg?width=374&height=499">
-    <img margin="10px" src="https://lol-skin.weblog.vc/img/wallpaper/loading/Ezreal_21.jpg?1641627342" height="300em" width="200em">
+   <h2>Sobre mim...</h2>
+<div>
+  <li>Iniciando na carreira de programador...</li>
+  <li>Espero um grande dia trabalhar com microsoft</li>
+  <li>Um grande amor por criar bots (principalmente no discord)</li>
+</div>
+   
+<div style="display: inline-block"><br>
+    <img margin="10px" src="https://i.ytimg.com/vi/yoQ9e5YiMxA/maxresdefault.jpg" height="1280px" width="720px">
+  <p text-align="center"> O seno de dois A vezes o seno de B menos C vezes X mais o seno de dois B vezes o seno de C menos A vezes Y, mais o seno de dois C, mais o seno de A menos B vezes X é igual a zero.
+aaaa  é , isso sim é bonito -Zoe </p>
 </div>
 
   <h2>Programming </h2>
@@ -33,7 +41,7 @@ target="_blank"></a>
 target="_blank" target="_blank"></a>
   </div>
   
-  <h2> Editores</h2>
+  <h2> Editores (IDE`s)</h2>
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm" target="_blank">
   <img alt="VS" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
@@ -42,8 +50,8 @@ target="_blank" target="_blank"></a>
   <h2 style="color: green"> Games</h2>
 <div style="display: block">
     <a href = "https://steamcommunity.com/id/ThiagoBeleren/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-    <a href= ""> <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a>
-    <a href= ""> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a> 
+    <a href= ""> <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"> -Maguinhodelolis</a>
+    <a href= ""> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"> -MrBeleren</a> 
       
   <h2>Outros hobbies</h2>
   <div style="display: inline-block">
