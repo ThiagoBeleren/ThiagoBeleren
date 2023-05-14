@@ -8,9 +8,7 @@
    
    <h2>Sobre mim...</h2>
 <div>
-  <li>Iniciando na carreira de programador...</li>
-  <li>Espero um grande dia trabalhar com microsoft</li>
-  <li>Um grande amor por criar bots (principalmente no discord)</li>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/JojoSoninho#3053)](https://discord.com/users/JojoSoninho#3053)
 </div>
    
 <div align="center"><br>
