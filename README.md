@@ -7,7 +7,7 @@
  </div>
    
    <h2>Sobre mim...</h2>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/JojoSoninho#3053)](https://discord.com/users/JojoSoninho#3053)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/JojoSoninho#3053?1038201039725285546?idleMessage=Timo%20ist%20grrr)](https://discord.com/users/JojoSoninho#3053)
 
    
 <div align="center"><br>
