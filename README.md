@@ -7,9 +7,8 @@
  </div>
    
    <h2>Sobre mim...</h2>
-<div>
   [![Discord Presence](https://lanyard.cnrad.dev/api/JojoSoninho#3053)](https://discord.com/users/JojoSoninho#3053)
-</div>
+
    
 <div align="center"><br>
     <img align="" margin="10px" src="https://i.pinimg.com/564x/8d/46/e0/8d46e07221905f26c83dc2d14387ed0c.jpg" height="500px" width="450px">
